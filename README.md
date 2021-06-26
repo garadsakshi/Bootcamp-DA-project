@@ -1,1 +1,2 @@
-# Shape_AI Data Analytics project
+# Shape_AI Bootcamp on Data Analytics 
+project on titaninc survivour
